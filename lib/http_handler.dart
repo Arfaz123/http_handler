@@ -2,10 +2,12 @@
 library http_handler;
 
 // Import necessary Dart libraries
-import 'package:http/http.dart';
+import 'package:http/http.dart' as http;
 import 'package:connectivity_plus/connectivity_plus.dart';
 import 'package:flutter/foundation.dart';
 import 'package:flutter/material.dart';
+import 'dart:convert';
+import 'dart:io';
 
 // Import the other parts of the DioHandler package
 part 'src/network_connectivity.dart';
