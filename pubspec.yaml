@@ -1,6 +1,6 @@
 name: http_handler
 description: HttpHandler provides utility functions and customization options to streamline API request handling in your Flutter applications.
-version: 0.0.1-beta-1
+version: 0.0.1-beta-2
 homepage: https://linktr.ee/arfaz_860
 repository: https://github.com/Arfaz123/http_handler.git
 

@@ -4,7 +4,18 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="14cc7def-522b-4914-9f2b-fd760019d7ac" name="Changes" comment="" />
+    <list default="true" id="14cc7def-522b-4914-9f2b-fd760019d7ac" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/example/lib/common_call/api_call.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/lib/widgets/custom_dialogs.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CHANGELOG.md" beforeDir="false" afterPath="$PROJECT_DIR$/CHANGELOG.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/lib/main.dart" beforeDir="false" afterPath="$PROJECT_DIR$/example/lib/main.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/http_handler.iml" beforeDir="false" afterPath="$PROJECT_DIR$/http_handler.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/http_handler.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/http_handler.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/src/custom_dialog.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/src/custom_dialog.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/src/network_call.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/src/network_call.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pubspec.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/pubspec.yaml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -36,13 +47,14 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "cidr.known.project.marker": "true",
     "dart.analysis.tool.window.visible": "false",
-    "last_opened_file_path": "D:/flutterPackages/http_handler",
+    "last_opened_file_path": "D:/flutterPackages/http_handler/example",
     "settings.editor.selected.configurable": "flutter.settings",
     "show.migrate.to.gradle.popup": "false"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\flutterPackages\http_handler\example\lib" />
       <recent name="D:\flutterPackages\http_handler" />
       <recent name="D:\flutterPackages\http_handler\lib\src" />
     </key>

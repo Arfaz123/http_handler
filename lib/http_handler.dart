@@ -7,7 +7,9 @@ import 'package:connectivity_plus/connectivity_plus.dart';
 import 'package:flutter/foundation.dart';
 import 'package:flutter/material.dart';
 import 'dart:convert';
-import 'dart:io';
+import 'dart:io' show File;
+
+import 'package:http/http.dart';
 
 // Import the other parts of the DioHandler package
 part 'src/network_connectivity.dart';
