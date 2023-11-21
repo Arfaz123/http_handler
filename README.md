@@ -8,11 +8,11 @@
 
 ## Introduction
 
-HttpHandler is a Flutter package designed to simplify network API calls using the Dio HTTP client. It provides utility functions and customization options to streamline API request handling in your Flutter applications.
+HttpHandler is a Flutter package designed to simplify network API calls using the HTTP client. It provides utility functions and customization options to streamline API request handling in your Flutter applications.
 
 ## Features
 
-- Simplified API calls with Dio.
+- Simplified API calls with Http.
 - Customizable error and loading dialogs.
 - Network connectivity check.
 - Callback time measurement.
@@ -57,7 +57,7 @@ import 'package:http_handler/http_handler.dart';
 
 ### Create a HttpHandler Instance
 
-Create an instance of `HttpHandler` by providing a Dio instance and other optional parameters:
+Create an instance of `HttpHandler` by providing a http instance and other optional parameters:
 
 ```dart
   final httpHandler = HttpHandler(
@@ -135,4 +135,4 @@ This package is released under the MIT License. See the [LICENSE](LICENSE) file 
 
 ---
 
-Feel free to explore the features of the DioHandler package and customize it to suit your needs. If you have any questions or feedback, don't hesitate to reach out. Happy coding!
+Feel free to explore the features of the HttpHandler package and customize it to suit your needs. If you have any questions or feedback, don't hesitate to reach out. Happy coding!
