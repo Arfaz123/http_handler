@@ -1,4 +1,7 @@
-# Changelog 0.0.1-beta-5
+# Changelog 0.0.1
+
+## [0.0.1] - 2023-12-02
+Documentation.
 
 ## [0.0.1-beta-5] - 2023-12-02
 No changes.
