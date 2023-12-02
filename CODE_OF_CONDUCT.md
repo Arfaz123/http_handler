@@ -1,6 +1,6 @@
 # Code of Conduct
 
-As contributors and maintainers of the DioHandler Flutter package, we are committed to fostering an open and inclusive community. This code of conduct outlines our expectations for all those who participate in our project, as well as the consequences for unacceptable behavior.
+As contributors and maintainers of the HttpHandler Flutter package, we are committed to fostering an open and inclusive community. This code of conduct outlines our expectations for all those who participate in our project, as well as the consequences for unacceptable behavior.
 
 ## Our Pledge
 

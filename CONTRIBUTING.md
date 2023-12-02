@@ -1,6 +1,6 @@
-# Contributing to DioHandler Flutter Package
+# Contributing to HttpHandler Flutter Package
 
-Welcome to the contribution guide for the DioHandler Flutter package! We're excited to have you contribute to our project. Before you start, please take a moment to read the following guidelines.
+Welcome to the contribution guide for the HttpHandler Flutter package! We're excited to have you contribute to our project. Before you start, please take a moment to read the following guidelines.
 
 ## Code of Conduct
 
@@ -46,4 +46,4 @@ Please follow the [Flutter style guide](https://flutter.dev/docs/development/too
 
 By contributing to this repository, you agree that your contributions will be licensed under the [MIT License](LICENSE).
 
-Thank you for your interest in contributing to DioHandler Flutter package! Your contributions are greatly appreciated.
+Thank you for your interest in contributing to HttpHandler Flutter package! Your contributions are greatly appreciated.

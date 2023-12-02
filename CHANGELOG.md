@@ -1,31 +1,25 @@
-# Changelog 0.0.1-beta-3
+# Changelog 0.0.1-beta-5
 
-All notable changes to this package will be documented in this file.
+## [0.0.1-beta-5] - 2023-12-02
+No changes.
 
-The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
-and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
+## [0.0.1-beta-4] - 2023-11-21
+**Features**
+* Form data API call, Error Handling, Documentation.
 
-## [released]
+## [0.0.1-beta-3] - 2023-11-20
+No changes.
 
-### Added
-- Feature or enhancement added in the unreleased version.
+## [0.0.1-beta-2] - 2023-11-20
+**Features**
+* Network connectivity and custom dialogs added.
 
-### Changed
-- Change or improvement made in the unreleased version.
+## [0.0.1-beta-1] - 2023-11-20
+Initial release.
 
-### Deprecated
-- Deprecated feature or functionality in the unreleased version.
-
-### Removed
-- Removed feature or functionality in the unreleased version.
-
-### Fixed
-- Bug or issue fixed in the unreleased version.
-
-## [0.0.1-beta-3] - 2023-11-21
-
-### Added
-- Initial release of the package.
-
-
+**Features**
+* Simplified API calls with Http.
+* Customizable error and loading dialogs.
+* Network connectivity check.
+* Callback time measurement.
 

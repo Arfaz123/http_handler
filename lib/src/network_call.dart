@@ -1,5 +1,17 @@
 part of http_handler;
 
+/// HTTP Handler Class
+///
+/// A Flutter package for simplifying network API calls using the Dio HTTP client.
+/// It provides utility functions and customization options to streamline API
+/// request handling in your Flutter applications.
+///
+/// [customErrorDialog]: Custom widget for error dialogs.
+/// [customLoadingDialog]: Custom widget for loading dialogs.
+/// [isCheckNetworkConnectivity]: Flag to check network connectivity before making requests.
+/// [isAlertDialogs]: Flag to show alert dialogs for errors.
+/// [isCallBackTime]: Flag to measure API callback time in debug mode.
+/// [getBuildContext]: Callback to get BuildContext.
 class HttpHandler {
   final dynamic customErrorDialog;
   final dynamic customLoadingDialog;
@@ -8,6 +20,14 @@ class HttpHandler {
   final bool isCallBackTime;
   final BuildContext getBuildContext; // Callback to get BuildContext
 
+  /// Constructor for the HttpHandler class.
+  ///
+  /// [customErrorDialog]: Custom widget for error dialogs.
+  /// [customLoadingDialog]: Custom widget for loading dialogs.
+  /// [isCheckNetworkConnectivity]: Flag to check network connectivity before making requests.
+  /// [isAlertDialogs]: Flag to show alert dialogs for errors.
+  /// [isCallBackTime]: Flag to measure API callback time in debug mode.
+  /// [getBuildContext]: Callback to get BuildContext.
   HttpHandler({
     this.customErrorDialog,
     this.customLoadingDialog,
@@ -17,6 +37,21 @@ class HttpHandler {
     this.isCallBackTime = false,
   });
 
+  /// Method to make API calls.
+  ///
+  /// [headers]: Future that resolves to a map of headers for the request.
+  /// [body]: Map containing the request body.
+  /// [serviceUrl]: URL for the API request.
+  /// [method]: HTTP method for the request (GET, POST, PATCH, PUT, DELETE, FORM).
+  /// [formData]: Map containing form data for FORM requests.
+  /// [success]: Callback function for a successful response.
+  /// [error]: Callback function for an error response.
+  /// [showProcess]: Flag to display a loading dialog.
+  /// [singleFile]: Single file for file upload.
+  /// [singleFileKey]: Key for the single file in the request.
+  /// [multipleFile]: List of files for multiple file upload.
+  /// [multipleFileKeysList]: List of keys for multiple files in the request.
+  /// [multipleFileKey]: Key for multiple files in the request.
   Future<void> callAPI(
       {Future<Map<String, String>>? headers,
       Map<String, dynamic>? body,

@@ -2,7 +2,7 @@
 # HttpHandler
 
 ![Pub Version](https://img.shields.io/pub/v/http_handler)
-![License](https://img.shields.io/badge/license-MIT-blue.svg)
+![License](https://img.shields.io/badge/license-Apache-blue.svg)
 
 ---
 
